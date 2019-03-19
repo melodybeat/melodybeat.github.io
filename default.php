@@ -262,7 +262,7 @@ $dirs = @array_values($dirs); $files = @array_values($files);
                     <span class="pipe">|</span> 
                     <a href="http://www.hostinger.mx/hospedaje-gratis" target="_blank">Hospedaje Gratis</a> 
                     <span class="pipe">|</span> 
-                    <a href="http://www.hostinger.mx/forum" target="_blank">Foro de Soportee</a> 
+                    <a href="http://www.hostinger.mx/forum" target="_blank">Foro de Soporte</a> 
                     <span class="pipe">|</span> 
                     <a href="http://cpanel.hostinger.mx/" target="_blank">Iniciar Sesión</a>
                 </div>
